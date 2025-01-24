@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pkl
+data/fraudTrain.csv
+data/fraudTest.csv
